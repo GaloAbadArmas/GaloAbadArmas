@@ -7,7 +7,7 @@ Economist with a strong passion for Data Science and a strategic focus on Busine
 ### Projects
 
 #### 📈 [Airbnb Listings Analysis: Market Structure & Data Quality Validation](https://github.com/GaloAbadArmas/airbnb-New-York-listings-analysis)
-
+#### 💸 [IEEE-CIS Fraud Detection](https://github.com/GaloAbadArmas/IEEE-CIS-Fraud-Detection)
 ---
 
 ### 📱 Connect with me:
